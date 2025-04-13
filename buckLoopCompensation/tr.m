@@ -16,3 +16,5 @@ fig=figure(1);
 sysB=zpk(z,p,k);
 
 bode(bode1,"*",sysA,sysB);
+
+C.DisplayFormat="frequency";
