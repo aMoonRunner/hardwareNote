@@ -11,6 +11,6 @@
 ![alt text](pictures/image-1.png)
 
 下面是一些其他=它参考文献
-```
-modeling-skin-effect-with-reduced-decoupled-rl-circuits
-```
+
+[modeling-skin-effect-with-reduced-decoupled-rl-circuits](https://github.com/aMoonRunner/hardwareNote/blob/main/files/modeling-skin-effect-with-reduced-decoupled-rl-circuits.pdf)
+
