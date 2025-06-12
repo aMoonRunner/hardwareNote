@@ -3,4 +3,9 @@
 ## 如何在电路仿真中模拟集肤效应？
 
 参考文献
+https://github.com/aMoonRunner/hardwareNote/blob/main/files/Lumped%20Skin%20Effect%20Model%20for%20Package%20Leads.pdf
+中列举了一些方法和优缺点
 
+![alt text](pictures/image.png)
+
+![alt text](pictures/image-1.png)
